@@ -24,3 +24,5 @@ sidebar_position: 9
 | Trout    | $35        | 8.97%  |
 | Salmon   | $42        | 2.97%  |
 | Piranha  | $50        | 2.97%  |
+
+Note: You're better off selling Bass, Trout, Salmon, Piranha without cooking them.
